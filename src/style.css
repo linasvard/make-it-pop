@@ -5,7 +5,7 @@
 
 
 body {
-   background: radial-gradient(circle 60vw at 10vh 30vw, #f23f28, #ff9de3, #b7ff9b 50%, #ffffff 100%);
+   background: radial-gradient(circle 100vw at 5vh 5vw, #ff9de3, #f23f28, #a034fb, #b7ff9b 100%);
 }
 
 .make-it-pop {
@@ -34,3 +34,8 @@ body {
 
 
 /* fill: #e83f0d; */
+@media (max-width: 600px) {
+  body {
+   background: radial-gradient(circle 1100px at -10px -300px, #ff9de3 30%, #f23f28, #a034fb, #b7ff9b 100%);
+}
+}
