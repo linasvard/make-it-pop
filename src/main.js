@@ -17,7 +17,7 @@ gsap.from(".it", {
 
 gsap.from(".pop", {
   y: 2000, 
-  duration: 0.6,
-  ease: "power3.out",
-  delay: 1.5
+  duration: 0.7,
+  ease: "power2.out",
+  delay: 1.3,
 });

@@ -1,1 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_0SkZ5-r)
+# Individuell uppgift: Grafiska Verktyg
+## Uppgiftsbeskrivning
+En praktisk fördjupning i filformat och verktyg som ofta angränsar frontendutveckling bestående av två delar. 
+
+### Del 1: Animera SVG-fil
+
+### Del 2: Generera AI bild
+I del 1 generera en valfri AI-bild som ev. skulle kunna användas som placeholder bild för ett frontend-projekt. Här gavs fri kreativitet och en lista på rad olika verktyg.
+
+För min bild använde jag verktyget Adobe Firefly där jag promptade: 
+> "Kan du generera en produktbild för en läskedryck som smakar grapefrukt och fläder. Designen ska vara modern och enkel och kännas fräsch!"
+
+#### Och fick resultatet:
+![Somrig bild på en läskedryck ståendes på ett bord](AI-uppgift.jpeg)
+
+##### Beskrivning
+Denna bild är tänkt att använda som en placeholder för en herobild, exempelvis till en sommarlansering för läskeföretag. Den lämpar sig bäst för desktop läge men skulle kunna anpassa sig till mobil. 
+
