@@ -5,7 +5,7 @@
 
 
 main {
-  background: #e9e4d4;
+  background: #fff2f2;
 }
 
 .make-it-pop {
@@ -23,7 +23,7 @@ main {
 
 .it {
   fill: #ffd927;
-  transform: translate(10px, 0);
+  transform: translate(-10px, 0);
 
 }
 

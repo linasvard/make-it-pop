@@ -14,3 +14,10 @@ gsap.from(".it", {
   ease: "power3.out",
   delay: 1
 });
+
+gsap.from(".pop", {
+  y: 2000, 
+  duration: 0.6,
+  ease: "power3.out",
+  delay: 1.5
+});
