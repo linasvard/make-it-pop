@@ -4,8 +4,8 @@
 }
 
 
-main {
-  background: #fff2f2;
+body {
+   background: radial-gradient(circle 60vw at 10vh 30vw, #f23f28, #ff9de3, #b7ff9b 50%, #ffffff 100%);
 }
 
 .make-it-pop {
@@ -17,24 +17,20 @@ main {
 }
 
 .make {
-  fill: #ff94a3;
+  fill: #2c4116;
   transform: translate(-10px, 0);
 }
 
 .it {
-  fill: #ffd927;
+  fill: #f23f28;
   transform: translate(-10px, 0);
 
 }
 
 .pop {
-  fill: #00cd51;
+  fill: #4c0759;
   transform: translate(0, 30px);
 }
 
-.exclamation {
-  fill: #971212;
-
-}
 
 /* fill: #e83f0d; */
