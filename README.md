@@ -9,7 +9,7 @@
 As a part of an assignment during my education for Fornt End Developer I had to create an SVG-file that I later could manipulate in GSAP. This is all built without any framwork and is only built with Vanilla JavaScript, Vite as a builder and basic CSS styling. 
 
 ### Demo
-[Checkout demo live](https://medieinstitutet.github.io/fed25d-grafiska-verktyg-individuell-linasvard/)
+[Checkout demo live ↗](https://linasvard.github.io/make-it-pop/)
 
 ![Gif animation flying in from left, right and below](make-it-pop.gif)
 
