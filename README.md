@@ -2,6 +2,9 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
 ![Adobe Firefly](https://img.shields.io/badge/Adobe%20Firefly-EB1000?style=for-the-badge&logoColor=white)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white&style=for-the-badge)](https://www.w3.org/Style/CSS/)
 
 ## Kort om uppgiften
 En praktisk fördjupning i filformat och verktyg som ofta angränsar frontendutveckling bestående av två delar. 
@@ -18,11 +21,6 @@ I del ett skulle jag skapa en egen SVG-fil i valfritt program och i detta fall h
 
 Animationen är enbart byggd med GSAP i JavaScript och föreställer de tre order "Make It Pop!" inflygandes från vänster, höger och nedifrån på en färgglad gradient. 
 
-#### Tekniker som använts:
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black&style=for-the-badge)](https://gsap.com)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white&style=for-the-badge)](https://www.w3.org/Style/CSS/)
 
 ### Del 2: Generera AI bild
 #### Beskrivning 
