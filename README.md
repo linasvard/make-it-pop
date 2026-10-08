@@ -1,4 +1,8 @@
 # Individuell uppgift: Grafiska Verktyg
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
+![Adobe Firefly](https://img.shields.io/badge/Adobe%20Firefly-EB1000?style=for-the-badge&logoColor=white)
+
 ## Kort om uppgiften
 En praktisk fördjupning i filformat och verktyg som ofta angränsar frontendutveckling bestående av två delar. 
 
